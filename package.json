@@ -1,0 +1,12 @@
+{
+  "name": "javascript_learning_is_pain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "temp_changer.js",
+  "scripts": {
+    "test": "node temp_changer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
